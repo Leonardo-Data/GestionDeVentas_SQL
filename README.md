@@ -65,5 +65,5 @@ Las tablas del proyecto se relacionan de la siguiente manera:
 ---
 
 ¡Gracias por revisar este proyecto!  
-Si tienes sugerencias o ideas para mejorarlo, ¡serán bienvenidas! 😄
+
 
